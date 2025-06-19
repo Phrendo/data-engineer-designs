@@ -427,4 +427,4 @@ class DataQualityValidator:
 4. Documentation and training
 
 ---
-**Related ADR:** [ADR 0008: Analytics Pipeline](docs/adr-0008-analytics-pipeline.md)
+**Related ADR:** [ADR 0008: Analytics Pipeline](adr-0008-analytics-pipeline.md)

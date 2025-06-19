@@ -576,4 +576,4 @@ class CostOptimizedCaching:
 - **Scalability**: Handle 10M concurrent users with linear scaling
 
 ---
-**Related ADR:** [ADR 0010: Multi-Region CDN](docs/adr-0010-multi-region-cdn.md)
+**Related ADR:** [ADR 0010: Multi-Region CDN](adr-0010-multi-region-cdn.md)

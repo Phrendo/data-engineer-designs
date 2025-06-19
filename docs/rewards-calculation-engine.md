@@ -253,4 +253,4 @@ flowchart LR
 - **Availability**: 99.9% uptime with <1 minute failover
 
 ---
-**Related ADR:** [ADR 0003: Rewards Calculation Engine](docs/adr-0003-rewards-calculation-engine.md)
+**Related ADR:** [ADR 0003: Rewards Calculation Engine](adr-0003-rewards-calculation-engine.md)

@@ -335,4 +335,4 @@ def fixed_window_check(key, limit, window_size):
 - **Availability**: 99.99% uptime with automatic failover
 
 ---
-**Related ADR:** [ADR 0006: Distributed Rate Limiting](docs/adr-0006-distributed-rate-limiting.md)
+**Related ADR:** [ADR 0006: Distributed Rate Limiting](adr-0006-distributed-rate-limiting.md)

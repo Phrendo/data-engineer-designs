@@ -421,4 +421,4 @@ class OutboxPattern:
 4. Load testing and tuning
 
 ---
-**Related ADR:** [ADR 0007: Data Consistency Layer](docs/adr-0007-data-consistency-layer.md)
+**Related ADR:** [ADR 0007: Data Consistency Layer](adr-0007-data-consistency-layer.md)

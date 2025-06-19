@@ -179,4 +179,4 @@ flowchart LR
 - **Data Integrity**: Zero data loss with exactly-once processing semantics
 
 ---
-**Related ADR:** [ADR 0001: Event Ingestion Pipeline](docs/adr-0001-event-ingest-pipeline.md)
+**Related ADR:** [ADR 0001: Event Ingestion Pipeline](adr-0001-event-ingest-pipeline.md)

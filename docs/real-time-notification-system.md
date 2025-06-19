@@ -284,4 +284,4 @@ type Notification {
 4. Security hardening
 
 ---
-**Related ADR:** [ADR 0004: Real-Time Notification System](docs/adr-0004-real-time-notification.md)
+**Related ADR:** [ADR 0004: Real-Time Notification System](adr-0004-real-time-notification.md)

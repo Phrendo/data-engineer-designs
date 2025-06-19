@@ -299,4 +299,4 @@ function evaluateFlag(flagKey, user, context) {
 4. Documentation and training
 
 ---
-**Related ADR:** [ADR 0005: Feature Flag Service](docs/adr-0005-feature-flag-service.md)
+**Related ADR:** [ADR 0005: Feature Flag Service](adr-0005-feature-flag-service.md)

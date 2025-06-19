@@ -227,4 +227,4 @@ flowchart LR
 4. Compliance certifications
 
 ---
-**Related ADR:** [ADR 0002: Multi-Tenant Billing System](docs/adr-0002-multi-tenant-billing.md)
+**Related ADR:** [ADR 0002: Multi-Tenant Billing System](adr-0002-multi-tenant-billing.md)

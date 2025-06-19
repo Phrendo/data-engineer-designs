@@ -570,4 +570,4 @@ class TestCircuitBreaker:
 4. Team training
 
 ---
-**Related ADR:** [ADR 0009: Circuit Breaker Pattern](docs/adr-0009-circuit-breaker-pattern.md)
+**Related ADR:** [ADR 0009: Circuit Breaker Pattern](adr-0009-circuit-breaker-pattern.md)
